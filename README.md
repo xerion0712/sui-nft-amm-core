@@ -1,12 +1,15 @@
-# Heros NFT AMM on Sui
+# SUI NFT AMM Marketplace
 
-The First NFT AMM Smart Contract on SUI Blockchain.
-This allows for users to trade non-fungible tokens (NFTs) to each other.
-Everything on Sui is still on early stage, and we are in front of Sui pioneers.
+A demonstration of an Automated Market Maker (AMM) contract for NFT trading on the Sui blockchain. This core contract enables basic operations like listing, buying, and selling NFTs directly between users.
 
-This NFT AMM Smart Contract is still on demo version and consist of several TODO parts.
+As the Sui ecosystem is still in its early stages, this project serves as a foundational implementation for peer-to-peer NFT markets.
 
-The smart contract has minimum features for Trading, like `list` / `transfer` / `buy` / `sell` and so on.
-But planning to implement `Auctions` & `Raffles` feature which is very popular in traditional NFT marketplaces.
+## Current Features
+- List an NFT for sale
+- Buy an NFT
+- Execute peer-to-peer transfers
 
-Would be appreciated if many folks drop advises and proposals.
+## Planned Enhancements
+The goal is to expand into more advanced marketplace mechanics, such as:
+- Auction functionality
+- Raffle systems
